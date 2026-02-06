@@ -34,6 +34,7 @@ fuel: Blaubeer-Energy & Wasser 💧
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frontend
 
@@ -65,6 +66,7 @@ fuel: Blaubeer-Energy & Wasser 💧
 | JavaScript / React | ████████████████████ 95%  |
 | Kotlin / Android   | ████████████████░░░░ 80%  |
 | Swift / iOS        | ████████████░░░░░░░░ 60%  |
+| Rust               | ██████████████░░░░░░ 70%  |
 | Server / DevOps    | ██████████████████░░ 85%  |
 | Kaffee trinken     | ░░░░░░░░░░░░░░░░░░░░ 0%   |
 | Energy Drinks      | ████████████████████ 100% |
